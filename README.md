@@ -1,8 +1,8 @@
 CameraLink Frame-grabber IP
 ===========================
 
-CameraLink BASEコンフィグレーション用のフレームグラバーIPです。  
-シングルフレーム取り込み、連続フレーム取り込み、フレーム異常検出が可能です。  
+シンプルなCameraLink BASEコンフィグレーション用のフレームグラバーIPです。  
+カメラ映像のワンショット取り込み、連続取り込みが可能です。  
 
 BASEコンフィグレーションのうち下記のカラーフォーマットに対応します。
 - 24bitRGBカラー
@@ -27,6 +27,8 @@ BASEコンフィグレーションのうち下記のカラーフォーマット�
 =========
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)  
 Copyright (c) 2018 J-7SYSTEM WORKS LIMITED.
+
+業務使用についての相談などありましたら s.osafune@j7system.jp までご連絡ください。
 
 
 使い方
